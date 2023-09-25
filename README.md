@@ -2,7 +2,7 @@
 
 **Funcionalidades:** criar, listar, atualizar e deletar.
 
-**Alguns implementos que foram colocados no projetos:** API REST, consultas com Spring Data JPA, tratamento de respostas de erro, etc.
+**Algumas implementações:** API REST, consultas com Spring Data JPA, tratamento de respostas de erro, etc.
 
 ### Tecnologias utilizadas no projeto:
 - JAVA
